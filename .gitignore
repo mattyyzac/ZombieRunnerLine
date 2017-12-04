@@ -1,0 +1,10 @@
+[Oo]bj/
+[Bb]in/
+[Rr]elease*/
+[Aa]pp_[Dd]ata/
+[Uu]ploads/
+packages/
+.vs/
+*.log
+*.vspscc
+*.suo

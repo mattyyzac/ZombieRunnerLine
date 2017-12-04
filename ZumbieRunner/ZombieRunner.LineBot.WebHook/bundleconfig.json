@@ -1,0 +1,20 @@
+[
+  {
+    "outputFileName": "Content/styles/simple-line-icons.min.css",
+    "inputFiles": [
+      "Content/styles/simple-line-icons.css"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/home-index.min.js",
+    "inputFiles": [
+      "Scripts/home-index.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/styles/new-age.min.css",
+    "inputFiles": [
+      "Content/styles/new-age.css"
+    ]
+  }
+]
